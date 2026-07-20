@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: mcp-server-demo
+
+  ai:
+    mcp:
+      server:
+        enabled: true
+        name: book-mcp-server
+        version: 1.0.0
+
+
+server:
+  port: 8080
