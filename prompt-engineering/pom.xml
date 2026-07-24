@@ -65,7 +65,7 @@
                     <source>${java.version}</source>
                     <target>${java.version}</target>
                     <encoding>UTF-8</encoding>
-                    <parameters>true</parameters>
+                    <getWeathers>true</getWeathers>
                 </configuration>
             </plugin>
 
